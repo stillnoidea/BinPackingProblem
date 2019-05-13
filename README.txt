@@ -1,0 +1,3 @@
+﻿This program use the first fit algorithm or my own solution for the bin packing problem. It gets data from a csv file, a method invocation for this is in main class.
+You must add your own list of data to run this program, just put it in src.
+The program will check if there aren't products with the same id or if there is an empty line between data. If there is any problem an exception would be thrown.
